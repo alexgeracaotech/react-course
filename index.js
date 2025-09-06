@@ -6,6 +6,7 @@ const element = () => {
     <div>
       <h1>Hello World!</h1>
       <p>Welcome to React!</p>
+      <p>Deu certo, pivete!</p>
     </div>
   );
 };
